@@ -6,6 +6,10 @@
 
 ---
 
+## Background
+
+I am an Artificial Intelligence student from Brazil currently building a Machine Learning and AI Engineering portfolio. My focus is learning concepts deeply while producing reproducible, well-documented projects suitable for professional presentation.
+
 # Objective
 
 This audit maps my current weekly workflow and identifies where Artificial Intelligence should assist my work, where human judgment remains essential, and where full automation is appropriate.
