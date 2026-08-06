@@ -14,6 +14,16 @@ The objective is not to automate everything, but to improve productivity while m
 
 ---
 
+# Current Goals
+
+My current priorities are:
+
+- Successfully complete the FlyRank AI Internship.
+- Build a strong Machine Learning and AI Engineering portfolio on GitHub.
+- Complete my Artificial Intelligence degree while applying concepts in real projects.
+- Develop practical skills that prepare me for AI internships, freelance work, and future ML Engineer roles.
+- Improve my technical writing, reproducibility practices, and professional documentation.
+
 # Weekly Workflow Audit
 
 | Task | Classification | Rationale |
