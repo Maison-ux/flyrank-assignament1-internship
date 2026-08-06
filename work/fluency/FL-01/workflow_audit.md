@@ -8,107 +8,136 @@
 
 ## Background
 
-I am an Artificial Intelligence student from Brazil currently building a Machine Learning and AI Engineering portfolio. My focus is learning concepts deeply while producing reproducible, well-documented projects suitable for professional presentation.
+I am an Artificial Intelligence student from Brazil currently building a Machine Learning and AI Engineering portfolio.
 
-# Objective
+My objective is to understand Machine Learning concepts deeply while developing reproducible projects, maintaining high documentation standards, and building a professional GitHub portfolio suitable for internship and freelance opportunities.
 
-This audit maps my current weekly workflow and identifies where Artificial Intelligence should assist my work, where human judgment remains essential, and where full automation is appropriate.
-
-The objective is not to automate everything, but to improve productivity while maintaining quality, correctness, and learning.
+Rather than relying on AI for answers, I use it to improve my reasoning, documentation quality, and learning process.
 
 ---
 
-# Current Goals
+## Objective
+
+This workflow audit maps my current weekly activities and identifies where Artificial Intelligence provides the greatest value.
+
+The goal is not to automate everything. Instead, it is to determine where AI should:
+
+- assist with reasoning,
+- improve productivity,
+- automate repetitive work,
+- and where human judgment must remain the final decision-maker.
+
+---
+
+## Current Goals
 
 My current priorities are:
 
 - Successfully complete the FlyRank AI Internship.
-- Build a strong Machine Learning and AI Engineering portfolio on GitHub.
-- Complete my Artificial Intelligence degree while applying concepts in real projects.
-- Develop practical skills that prepare me for AI internships, freelance work, and future ML Engineer roles.
-- Improve my technical writing, reproducibility practices, and professional documentation.
+- Build a Machine Learning and AI Engineering portfolio on GitHub.
+- Complete my Artificial Intelligence degree while applying concepts through practical projects.
+- Develop skills required for ML Engineering, AI internships and freelance work.
+- Improve technical writing, reproducibility and software documentation.
+- Learn AI engineering best practices instead of simply producing project outputs.
 
-# Weekly Workflow Audit
+---
+
+## Weekly Workflow Audit
 
 | Task | Classification | Rationale |
 |------|----------------|-----------|
-| Study FlyRank internship lessons | Collaborate with AI | AI explains concepts and answers questions, but understanding must be mine. |
-| Complete internship assignments | Collaborate with AI | AI reviews reasoning and documentation, while I complete the work myself. |
-| Read Machine Learning documentation | Delegate with review | AI summarizes documentation before I study the original source. |
-| Write GitHub documentation | Delegate with review | AI improves writing quality while I verify technical accuracy. |
-| Debug Python code | Collaborate with AI | AI helps locate problems, but I validate every solution. |
-| Research Machine Learning concepts | Delegate with review | AI accelerates research and organizes references for further reading. |
-| Plan weekly study schedule | Delegate with review | AI proposes an optimized schedule that I adjust manually. |
-| Review internship notebooks | Collaborate with AI | AI explains code and methodology while I reproduce the reasoning. |
-| Apply for AI internship and freelance positions | Just me | Personal decisions require my judgment and adaptation for each opportunity. |
-| Participate in interviews | Just me | Communication and authenticity cannot be delegated. |
-| Improve LinkedIn and GitHub portfolio | Collaborate with AI | AI reviews writing and structure while I decide the final content. |
-| Write technical reports | Delegate with review | AI assists with organization, grammar and formatting, but conclusions remain mine. |
+| Study FlyRank internship lessons | Collaborate with AI | AI explains concepts and answers questions, while understanding remains my responsibility. |
+| Complete FlyRank assignments | Collaborate with AI | AI reviews reasoning, documentation and structure, but I complete and validate the work myself. |
+| Read Machine Learning documentation | Delegate with review | AI summarizes documentation to improve efficiency while I verify important details in the original sources. |
+| Research Machine Learning concepts | Delegate with review | AI accelerates research and organizes information before deeper study. |
+| Debug Python code | Collaborate with AI | AI helps identify possible issues while I validate every proposed solution. |
+| Review internship notebooks | Collaborate with AI | AI explains code structure and methodology while I reproduce the reasoning independently. |
+| Write GitHub documentation | Delegate with review | AI improves grammar, formatting and clarity while technical correctness remains my responsibility. |
+| Write technical reports | Delegate with review | AI assists with organization and writing quality while conclusions remain entirely mine. |
+| Plan weekly study schedule | Delegate with review | AI proposes study plans that I manually adjust according to my priorities. |
+| Improve GitHub portfolio | Collaborate with AI | AI reviews documentation and repository organization while I decide the final presentation. |
+| Apply for AI internships and freelance opportunities | Just me | Each application requires personal decisions and adaptation to the specific opportunity. |
+| Participate in interviews | Just me | Authentic communication, technical discussions and professional presentation cannot be delegated. |
 
 ---
 
-# Target Tasks for FL-02 to FL-04
+## Target Tasks for FL-02 to FL-04
 
-## Task 1 — Machine Learning Research
+### Task 1 — Machine Learning Research
 
-### Success Definition
+**Success Definition**
 
 - Research question is clearly defined.
-- Reliable sources are referenced.
+- Reliable references are documented.
 - Assumptions are explicitly identified.
-- Findings are documented for reproducibility.
+- Findings are reproducible.
 
 ---
 
-## Task 2 — Technical Documentation
+### Task 2 — Technical Documentation
 
-### Success Definition
+**Success Definition**
 
 - Documentation is complete.
-- Steps are reproducible.
-- Markdown formatting is professional.
-- GitHub repository remains organized.
+- Instructions are reproducible.
+- Markdown formatting follows GitHub best practices.
+- Repository organization remains clear and maintainable.
 
 ---
 
-## Task 3 — Machine Learning Experimentation
+### Task 3 — Machine Learning Experimentation
 
-### Success Definition
+**Success Definition**
 
-- Experiments are reproducible.
-- Parameters are documented.
+- Experiments can be reproduced.
+- Parameters and configurations are documented.
 - Results are interpreted honestly.
-- Conclusions distinguish observations from assumptions.
+- Conclusions clearly distinguish observations from assumptions.
 
 ---
 
-# AI Toolkit
+## AI Toolkit
 
 | Tool | Status |
 |------|--------|
 | ChatGPT | Configured |
 | Claude | Configured |
-| Anthropic Academy | Enrolled |
-| Hugging Face | Account created |
+| Anthropic Academy | Completed (AI Fluency: Framework & Foundations) |
+| Hugging Face | Account created and dataset access approved |
 
 ---
 
-# Claude Project
+## Claude Project
 
-A dedicated Claude Project was created for the FlyRank AI Internship.
+A dedicated Claude Project was created specifically for the FlyRank AI Internship.
 
-The project contains custom instructions to:
+Its custom instructions require Claude to:
 
-- explain concepts before providing solutions;
-- avoid inventing results or metrics;
+- explain concepts before presenting solutions;
 - distinguish observations from assumptions;
-- review code before suggesting changes;
-- produce documentation suitable for GitHub portfolios.
+- never invent results, benchmarks or metrics;
+- review code before suggesting modifications;
+- produce documentation suitable for GitHub repositories;
+- encourage reproducibility and Machine Learning best practices.
+
+The project is intended to support learning rather than replace independent problem solving.
 
 ---
 
-# Reflection
+## Reflection
 
-This exercise showed that the highest value of AI is not replacing my work but accelerating learning, documentation, and structured reasoning.
+This exercise reinforced that the greatest value of Artificial Intelligence is not replacing my work, but improving the quality of my learning process.
 
-Tasks involving personal judgment, interviews, and final technical decisions remain my responsibility, while repetitive research and documentation benefit significantly from AI collaboration.
+AI performs best when assisting with research, documentation, organization and technical explanations, while critical thinking, final decisions and professional responsibility remain with me.
+
+Understanding where AI should collaborate—and where it should not—helps create a workflow that is both more productive and more reliable.
+
+---
+
+## Evidence
+
+The following files provide evidence for this assignment:
+
+- `claude_project_overview.png` — Overview of the configured Claude Project.
+- `claude_project_instructions.png` — Custom instructions configured for the project.
+- `anthropic_academy.png` — Evidence that the AI Fluency: Framework & Foundations course was completed.
